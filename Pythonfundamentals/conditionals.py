@@ -39,4 +39,4 @@ while user_guess != random_number:
       print("You lose!")
       number_of_guesses += 1
 
-print("Game Over you took " + str(number_of_guesses) + " guesses")
+print("Game Over you took" + " " + str(number_of_guesses) + " guesses")
